@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MaxBittker/bashhistorytagging#readme",
   "dependencies": {
+    "csv": "^1.1.0",
     "immutable": "^3.8.1"
   }
 }
