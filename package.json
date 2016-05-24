@@ -1,0 +1,22 @@
+{
+  "name": "bashhistorytagging",
+  "version": "1.0.0",
+  "description": "tag bash history snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxBittker/bashhistorytagging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxBittker/bashhistorytagging/issues"
+  },
+  "homepage": "https://github.com/MaxBittker/bashhistorytagging#readme",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
+}
